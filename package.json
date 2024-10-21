@@ -1,6 +1,6 @@
 {
   "name": "@indoorequal/vue-maplibre-gl",
-  "version": "7.7.0",
+  "version": "7.7.1",
   "description": "Vue 3 plugin for maplibre-gl",
   "keywords": [
     "vue",
@@ -80,5 +80,5 @@
   "engines": {
     "node": ">=18"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
